@@ -10,6 +10,9 @@
     font-weight: 600;
 }
 
+.screen-header__icons {
+    position: relative;
+}
 .badge-sm {
     background-color: tomato;
     width: 6px;
@@ -21,6 +24,6 @@
     position: absolute;
     color: white;
     font-weight: 600;
-    right: 20px;
-    top: 50px;
+    right: 0px;
+    bottom: 20px;
 }
